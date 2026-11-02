@@ -397,7 +397,9 @@ The project also involved collaborative development and integration of the front
 
 **Team Members:**
 
-Add the names of all original project contributors here.
+SACHIN S NAIR
+SYED MUHAMMED
+KARTHIK B PILLAI
 
 ---
 
